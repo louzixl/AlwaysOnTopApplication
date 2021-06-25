@@ -1,0 +1,9 @@
+﻿<Window x:Class="AlwaysOnTopApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="200" Width="350" Topmost="True">
+    
+    <Grid>
+        <TextBlock Text="I am the topmost window!" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>
